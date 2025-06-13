@@ -19,4 +19,7 @@ This script is built using the [Whitebox Workflows Python API](https://pypi.org/
 ### Use Case
 This workflow was originally developed as part of a wetland mapping project across the Canadian portion of the Great Lakes–St. Lawrence River Basin, where terrain-derived metrics are essential for identifying wetland structure and extent at landscape scales.
 
+## Contributors:
+- Maciej 'Mac' Lizak
+
 ---
