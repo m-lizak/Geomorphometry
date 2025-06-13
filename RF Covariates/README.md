@@ -1,6 +1,6 @@
 
 ## DEM Pre-Processing and Covariate Generator
-One of the key scripts in this repository, `terrain_covariates_pipeline.py`, implements a full workflow for generating terrain-derived covariates from a raw DEM. These covariates are intended for use in machine learning-based land cover and wetland classification models.
+One of the key scripts in this repository, `terrain_covariates_pipeline.py`, implements a full workflow for generating terrain-derived covariates from a raw DEM. These covariates are intended for use in Random Forest (RF) land cover and wetland classification models.
 
 ### Key Steps Included:
 - **DEM smoothing** (feature-preserving)
