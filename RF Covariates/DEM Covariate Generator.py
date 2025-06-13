@@ -19,7 +19,7 @@
 from whitebox_workflows import WbEnvironment 
 
 # Initialize Whitebox Workflows environment
-wbe = WbEnvironment("YOUR_KEY_HERE")
+wbe = WbEnvironment("YOUR_LICENSE_KEY_HERE")
 wbe.max_procs = -1  # Use all available CPU cores
 wbe.verbose = True  # Enable verbose logging
 
