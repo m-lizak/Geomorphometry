@@ -12,7 +12,6 @@ One of the key scripts in this repository, `terrain_covariates_pipeline.py`, imp
 - **Canopy Height Model (CHM)** from DSM and DEM
 - **Solar exposure metrics** via time-in-daylight analysis
 
-All outputs are saved as GeoTIFFs or shapefiles, and the script is structured for modularity and reproducibility.
 
 ### Tools Used
 This script is built using the [Whitebox Workflows Python API](https://pypi.org/project/whitebox-workflows/). Each tool used is documented in detail in the [Whitebox User Manual](https://www.whiteboxgeo.com/manual/wbw-user-manual/book/tool_help.html), which provides technical background on how tools are derived and what each output represents.
